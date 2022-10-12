@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Postorr</string>
+    <string name="sign_in">Sign In</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="or">or</string>
+    <string name="you_are_signed_in">You are signed in</string>
+    <string name="sign_out">Sign out</string>
+</resources>

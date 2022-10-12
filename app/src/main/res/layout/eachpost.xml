@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/apostname"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:textSize="30sp"
+        android:text="friend name"
+        />
+    <TextView
+        android:id="@+id/aposttitle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:textSize="40sp"
+        android:text="friend name"
+        />
+
+    <Button
+        android:id="@+id/openpost"
+        android:layout_width="81dp"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:text="OPEN"
+        android:textSize="15sp" />
+
+
+</LinearLayout>

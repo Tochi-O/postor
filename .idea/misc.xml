@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/layout/activity_add_friend.xml" value="0.22447916666666667" />
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/layout/activity_main.xml" value="0.23020833333333332" />
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/layout/activity_post_list.xml" value="0.22447916666666667" />
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/layout/activity_upload_to_vote.xml" value="0.22447916666666667" />
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/layout/activity_vote.xml" value="0.21927083333333333" />
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/layout/eachfriend.xml" value="0.22447916666666667" />
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/layout/eachpost.xml" value="0.22447916666666667" />
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/layout/friendsvoted.xml" value="0.21927083333333333" />
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/layout/image_holder.xml" value="0.21927083333333333" />
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/layout/postview.xml" value="0.23020833333333332" />
+        <entry key="..\:/homeschool-2021/KOTLIN/Postorr/app/src/main/res/menu/menu_main.xml" value="0.23020833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

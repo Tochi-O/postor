@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "568543262147",
+    "project_id": "postorr-a2841",
+    "storage_bucket": "postorr-a2841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568543262147:android:b64bcfeeaa2de93be7b976",
+        "android_client_info": {
+          "package_name": "com.example.postorr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568543262147-ervc4hdhjbjki7eaglq487eohouckoro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.postorr",
+            "certificate_hash": "0d051606ed0e0dc71c7f04ec6fdc6b75b57f63b8"
+          }
+        },
+        {
+          "client_id": "568543262147-s7gf63qp1gahpb4fdk2gij79p3or4st2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCivKbcOC376GVsKtxQVSV61k2PkjsuFvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568543262147-s7gf63qp1gahpb4fdk2gij79p3or4st2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
